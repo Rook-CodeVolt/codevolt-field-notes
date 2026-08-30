@@ -28,7 +28,11 @@ FORBIDDEN = {
     "external contractor": "internal staffing disclosure",
     "external agent": "internal staffing disclosure",
     "CONTRACTOR_X_BRIEF": "internal publishing-operations reference",
-    "Hannah at CodeVolt": "individual framing instead of the CodeVolt team",
+    "I hope this helps": "chatbot carry-over",
+    "Let me know if you'd like": "chatbot carry-over",
+    "Let's dive in": "formulaic introduction",
+    "Here's what you need to know": "formulaic introduction",
+    "As an AI": "chatbot self-reference",
 }
 LINK_RE = re.compile(r"!?\[[^\]]*\]\(([^)]+)\)")
 
