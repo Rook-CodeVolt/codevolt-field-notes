@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Work enquiry
+    url: https://codevolt.co.uk
+    about: Use the CodeVolt website rather than posting project details publicly.
+  - name: Sensitive security concern
+    url: https://github.com/Rook-CodeVolt/codevolt-field-notes/blob/main/SECURITY.md
+    about: Read the private reporting guidance before sharing details.

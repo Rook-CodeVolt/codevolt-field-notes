@@ -1,0 +1,29 @@
+name: Documentation correction
+description: Report a bounded error or clarity problem in public documentation.
+title: "docs: "
+labels:
+  - documentation
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Do not include credentials, customer information, private system details or security findings. Use the private route in SECURITY.md for sensitive concerns.
+  - type: input
+    id: document
+    attributes:
+      label: Document
+      description: Link to the public file or section.
+    validations:
+      required: true
+  - type: textarea
+    id: correction
+    attributes:
+      label: Suggested correction
+      description: Explain the bounded error or clarity problem without private context.
+    validations:
+      required: true
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Public evidence
+      description: Optional public source or reproduction.
