@@ -14,10 +14,10 @@ It is not a live operations feed, a complete description of CodeVolt, a customer
 
 ## Contents
 
-- [`checklists/proposed-change-review.md`](checklists/proposed-change-review.md) — bound a proposed change before reviewing it.
-- [`checklists/one-file-fix.md`](checklists/one-file-fix.md) — keep a genuinely contained fix contained.
-- [`checklists/small-technical-handover.md`](checklists/small-technical-handover.md) — hand over what changed, how it was checked and how to undo it.
-- [`templates/public-work-note.md`](templates/public-work-note.md) — prepare a restrained public note backed by public evidence.
+- [`checklists/proposed-change-review.md`](checklists/proposed-change-review.md): bound a proposed change before reviewing it.
+- [`checklists/one-file-fix.md`](checklists/one-file-fix.md): keep a genuinely contained fix contained.
+- [`checklists/small-technical-handover.md`](checklists/small-technical-handover.md): hand over what changed, how it was checked and how to undo it.
+- [`templates/public-work-note.md`](templates/public-work-note.md): prepare a restrained public note backed by public evidence.
 
 ## Use
 
