@@ -16,9 +16,19 @@ The maintainer must review architecture descriptions, screenshots, incident less
 
 ## Editorial quality
 
-Public copy must read naturally and sound like the person or maintainer responsible for it. Remove chatbot carry-over, stock promotional language, inflated significance, formulaic contrasts, repetitive three-part lists, rhetorical questions that answer themselves, generic upbeat endings and unnecessary formatting. Avoid repeated em dashes, bold labels, emojis and headings that make short material look templated.
+Every public draft must pass [`PUBLIC_COMMUNICATION_STANDARD.md`](PUBLIC_COMMUNICATION_STANDARD.md). The author uses specific facts, ordinary words and natural sentence rhythm. The reviewer removes chatbot carry-over, stock promotional language, inflated significance, formulaic contrasts, artificial three part lists, rhetorical questions that answer themselves, generic upbeat endings and unnecessary formatting.
 
-Do not add fake typos, invented opinions or artificial quirks to imitate a person. Use specific facts, ordinary words and natural sentence rhythm. Read the final draft aloud. If it sounds generated or assembled, rewrite it before publication.
+Public copy does not use em dashes or dash led fragments for artificial rhythm. It avoids repeated bold labels, emojis and headings that make short material look templated. Required hyphens in technical identifiers, commands and established terms remain unchanged. These rules apply to CodeVolt's own words. Quoted source text, command output, code and identifiers are reproduced exactly. Dash led fragments are caught by the human writing pass, not by the validator.
+
+Humanising must not introduce fake typos, invented opinions, personal history or artificial quirks. Read the final draft aloud. Rewrite anything that sounds generated, assembled or more confident than the evidence.
+
+## Correctness review
+
+The author and independent reviewer must open each cited source, verify that it supports the exact wording, and recheck facts that can change. Commands, examples and tests presented as working must have real execution evidence. Numbers, dates, versions, issue states and declared totals must be checked rather than inferred.
+
+Separate observed facts, CodeVolt's interpretation and future intent. Name limits and unresolved uncertainty. Remove any claim that cannot be proved from the public evidence.
+
+Consequential public claims require accountable human approval. A different model family must review factual support, omissions, tone and generated writing patterns before publication. If that review is unavailable, the material waits.
 
 ## Never publish here
 
@@ -36,6 +46,8 @@ Do not add fake typos, invented opinions or artificial quirks to imitate a perso
 
 ## Evidence rule
 
-Every public claim about completed work must link to evidence a reader can inspect or be limited to a clearly labelled generalized example. Ordinary fork synchronization is not a CodeVolt contribution. A contribution may be described only when its public issue, pull request, commit or release supports the description.
+Every public claim about completed work must link to evidence a reader can inspect. The reviewer must open that evidence and confirm that it supports the exact wording. A link without that check does not satisfy this rule. A generalized example must be labelled as illustrative, must not describe or imply specific completed CodeVolt work, and never substitutes for the evidence link required above.
 
-When classification is uncertain, do not publish. Route the candidate to the maintainer for a decision.
+Ordinary fork synchronization is not a CodeVolt contribution. A contribution may be described only when its public issue, pull request, commit or release supports the description. Recheck changeable facts immediately before publication.
+
+When classification, accuracy or wording is uncertain, do not publish. Route the candidate to the maintainer for a decision.
