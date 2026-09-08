@@ -28,7 +28,7 @@ The author and independent reviewer must open each cited source, verify that it 
 
 Separate observed facts, CodeVolt's interpretation and future intent. Name limits and unresolved uncertainty. Remove any claim that cannot be proved from the public evidence.
 
-Consequential public claims require accountable human approval. A different model family must review factual support, omissions, tone and generated writing patterns before publication. If that review is unavailable, the material waits.
+Consequential public claims require accountable human approval and independent review of factual support, omissions, tone and editorial quality. If that review is unavailable, the material waits.
 
 ## Never publish here
 
